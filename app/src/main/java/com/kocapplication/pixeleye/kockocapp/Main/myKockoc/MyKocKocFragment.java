@@ -64,6 +64,7 @@ public class MyKocKocFragment extends Fragment {
     private LinearLayout scrapButton;
     private LinearLayout neighborButton;
     private LinearLayout courseButton;
+    private LinearLayout mytripButton;
 
     @Nullable
     @Override
